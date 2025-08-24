@@ -11,7 +11,7 @@ env:
   GKE_ZONE: us-central1-a
   DEPLOYMENT_NAME: mlops-assignment-app
   SERVICE_NAME: mlops-assignment-service
-  REPOSITORY: mlops-assignment-artifacts
+  REPOSITORY: my-repo
   IMAGE: mlops-assignment-fastapi
 
 jobs:
